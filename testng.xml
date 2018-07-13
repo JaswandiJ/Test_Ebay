@@ -5,6 +5,7 @@
 	<listeners>
 		<listener class-name="com.crest.utils.ScreenshotUtils"></listener>
 	</listeners>
+	<!---->
 <!-- 
 	 <test name="PlaceBidTest">
 		<classes>
